@@ -1,0 +1,1 @@
+This repository includes the Jupyter Notebook and the UC Irvine Spambase dataset, used for the final project in a statistical computing course. The project focuses on classifying emails as either spam or ham.
